@@ -1,6 +1,6 @@
 # BepInEx.Android
 
-Fork of [BepInEx](https://github.com/BepInEx/BepInEx) customized for running on Android IL2CPP games via the NextBep launcher.
+hi this a Fork of [BepInEx](https://github.com/BepInEx/BepInEx) customized for running on Android IL2CPP games via the NextBep launcher.
 
 This fork adapts the upstream BepInEx 6.0.0 preloader chain for Android: environment variable discovery, CoreCLR bootstrap via `coreclr_create_delegate`, and native interop through libfusion.so.
 
